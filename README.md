@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DaveCapel
+- 👋 Hi, I’m Dave Capel
 - 👀 I’m interested in Git
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Git
-- 📫 How to reach me ...
 
 <!---
 DaveCapel/DaveCapel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
